@@ -1,0 +1,16 @@
+/* Write your code here. */
+.bgContainer {
+  height: 100%;
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  padding: 11vh 13vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emojiCardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}

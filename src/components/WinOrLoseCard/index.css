@@ -1,0 +1,42 @@
+/* Write your code here. */
+.cardContainer {
+  padding: 5vh;
+  height: 500px;
+  width: 800px;
+  border-radius: 30px;
+  background-color: #9796f0;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.scoreContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mainHeading {
+  font-size: 50px;
+}
+.scoreText {
+  font-size: 30px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.score {
+  font-size: 30px;
+  font-weight: bold;
+  color: #6a59ff;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.button {
+  padding: 20px 40px;
+  background-color: #ffce27;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

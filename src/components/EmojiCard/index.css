@@ -1,0 +1,19 @@
+/* Write your code here. */
+.emojiContainer {
+  height: 230px;
+  width: 230px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #9796f0;
+  /* opacity: 0.5; */
+  list-style-type: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.cardButton {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

@@ -1,0 +1,28 @@
+/* Write your code here. */
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: #9796f0;
+  padding: 20px;
+  color: #fff;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 5px;
+  margin-left: 50px;
+}
+.navScoreContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  margin-right: 50px;
+}
+.hiddenScore {
+  display: none;
+}
